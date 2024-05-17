@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on IT companies
 - 📫 How to reach me: [Instagram](https://www.instagram.com/daler_0022_/), [Telegram](https://t.me/dalerjon_olimov)
 
-![Daler's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalerolimov&show_icons=true&theme=slateorange)
+![Daler's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalerolimov&show_icons=true&theme=slateorange&include_all_commits=true)
 
 # Technologies
 
